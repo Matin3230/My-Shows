@@ -90,7 +90,7 @@ E) Coupon Code
 
 **Homepage**
 
-![Home Page Light](https://github.com/Matin3230/My-Shows/assets/85051013/24145548-5b7c-4eab-82f4-9fd0fd4856fc)
+![Img1](https://github.com/Matin3230/My-Shows/assets/85051013/aaff674f-423a-45b6-8174-c2eee587e45c)
 
 
 **Information Page**
