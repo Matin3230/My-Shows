@@ -1,5 +1,7 @@
 # My-Shows
 
+**Abstract**
+
 A web-based project. Similar to bookmyshow website with some additional innovative features.
 Facility to store the information of the new customer, different types of movie show timing, ticket rates of different types on show class etc.
 Ability to the **Admin** to add or remove slides of slider, add/update/delete movies, apply or remove **social distancing** to multiplexes, apply **coupon codes** to users.
@@ -86,31 +88,33 @@ E) Coupon Code
 ➢ Admin can Apply Coupon Code to Specific User.
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-**Homepage**
+**Outputs**
+
+**1. Homepage**
 
 ![Img1](https://github.com/Matin3230/My-Shows/assets/85051013/aaff674f-423a-45b6-8174-c2eee587e45c)
 
 
-**Information Page**
+**2. Information Page**
 
 ![Information Page 2](https://github.com/Matin3230/My-Shows/assets/85051013/5dd0bb04-69ec-4d8c-8f95-3008b1794cdd)
 
-**Seat Selection with Social Distancing**
+**3.Seat Selection with Social Distancing**
 
 ![screencapture-localhost-My-Shows-form-html-2021-05-20-14_18_12](https://github.com/Matin3230/My-Shows/assets/85051013/a45c69da-0dd6-42a1-b825-c56538ffe684)
 
-**Admin Dashboard**
+**4. Admin Dashboard**
 
 ![Admin Home](https://github.com/Matin3230/My-Shows/assets/85051013/48c519b7-5c71-4ce2-bd7a-4a52b6f6b950)
 
-**Admin Movie Form**
+**5. Admin Movie Form**
 
 ![Add Movie Form](https://github.com/Matin3230/My-Shows/assets/85051013/c857da71-06c6-4af1-b6ad-42b599286e1c)
 
 
-**Admin Coupon Code**
+**6. Admin Coupon Code**
 
 ![Admin Advanced 1](https://github.com/Matin3230/My-Shows/assets/85051013/14a42aa9-7415-4a64-bd81-7d5acb0b49fa)
 
